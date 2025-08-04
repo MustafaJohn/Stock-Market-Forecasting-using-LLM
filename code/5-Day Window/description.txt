@@ -1,1 +1,0 @@
-This directory contains the code for 5-Day rolling window. Each window has their own directory
