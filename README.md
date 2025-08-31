@@ -1,5 +1,7 @@
-# Stock-Market-Forecasting-using-LLM
-This is a project that leverages machine learning models to predict stock market prices 
+# Exploring Advanced Financial Applications of Large Language Models
+
+## 🎓 University of Manchester - Thesis Project
+**Academic Year**: 2025
 
 ## Project Overview
 This project demonstrates how Large Language Models (LLMs) can be utilized for stock price forecasting by combining historical data, financial news sentiment analysis, and advanced predictive modeling techniques. The workflow encompasses data preprocessing, model training, inference, and results visualization within an intuitive, reproducible pipeline.
@@ -67,4 +69,5 @@ Notebooks for portfolio analysis are also given in each directory. All it requir
 ### Note
 All prediction CSV files must be generated before running portfolio analysis or Diebold-Mariano tests, as these analyses depend on the output files from the model implementations.
 
-
+## Academic Disclaimer
+This work represents research conducted for the fulfillment of degree requirements at the University of Manchester. The findings and conclusions are those of the author and do not necessarily represent the views of the University.
