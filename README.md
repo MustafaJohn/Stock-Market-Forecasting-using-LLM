@@ -14,3 +14,9 @@ python filename
 
 ## Output Structure
 After running any file, the results will be automatically saved in CSV format.
+
+## Diebold-Mariano test
+Each window has a Diebold Mariano test, which has the tests in a Jupyter notebook.
+
+## Portfolio Analysis
+Notebooks for portfolio analysis are also given in each directory. All it requires are the prediction csv files 
