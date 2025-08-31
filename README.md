@@ -12,6 +12,7 @@ The data used in this project is taken using the CRSP utility from WRDS. One can
 - Required libraries (install with pip install -r requirements.txt)
 
 ## Project Structure
+```
 Stock-Market-Forecasting-using-LLM/
 ├── 5-Day/
 │   ├── baseline.py
@@ -22,12 +23,13 @@ Stock-Market-Forecasting-using-LLM/
 ├── ... (additional daily windows)
 ├── requirements.txt
 └── README.md
-
+```
 ## Running the Forecasting Models
 Each Python file in the project represents a day's rolling window implementation. To run any model: 
+```
 cd N-Day/
 python filename
-
+```
 ## Output Structure
 After running any file, the results will be automatically saved in CSV format.
 
@@ -45,9 +47,10 @@ Notebooks for portfolio analysis are also given in each directory. All it requir
 5. Portfolio Analysis: Performance evaluation using prediction files
 
 ## Output Files
+```
 *results.csv --> Contains the statistical metrics
 *predictions.csv --> Contains the predictions along with the actual value. If multiple models are found, results are stored in wide format with each column representing a model.
-
+```
 ## Key Features 
 1. Daily Rolling Windows: Separate implementations for each time window
 2. Automated Results Export: CSV generation for easy analysis
