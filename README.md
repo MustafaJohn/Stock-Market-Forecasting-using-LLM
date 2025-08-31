@@ -1,7 +1,5 @@
 # Exploring Advanced Financial Applications of Large Language Models
-
-## 🎓 University of Manchester - Thesis Project
-**Academic Year**: 2025
+### University of Manchester - Thesis Project
 
 ## Project Overview
 This project demonstrates how Large Language Models (LLMs) can be utilized for stock price forecasting by combining historical data, financial news sentiment analysis, and advanced predictive modeling techniques. The workflow encompasses data preprocessing, model training, inference, and results visualization within an intuitive, reproducible pipeline.
